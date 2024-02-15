@@ -100,7 +100,7 @@ std::cout << "Thank you for accpecting this mission!" << endl;
 	}
 	cin.ignore();
 	cin.get();
-	return 0;
+	
 } 
 int main ()
 {
